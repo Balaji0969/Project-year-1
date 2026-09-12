@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+#numbers {
+    margin: 20px;
+}
+
+label {
+    font-size: 50px;
+    margin: 15px;
+}
+
+button {
+    font-size: 25px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
